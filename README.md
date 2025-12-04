@@ -25,5 +25,7 @@
 ---
 
 ### 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical)
+
+![](https://github-readme-stats.vercel.app/api?username=Shubhashissahu&show_icons=true&theme=radical)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Shubhashissahu&theme=radical)
+
