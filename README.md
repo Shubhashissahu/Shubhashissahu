@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner.jpg" alt="Banner" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Shubhashis</h1>
 <h3 align="center">A passionate Programmer and Continuous Learner</h3>
 
